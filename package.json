@@ -17,6 +17,7 @@
     "cookie": "^0.7.1",
     "cookie-signature": "^1.0.6",
     "core-js": "^3.40.0",
+    "cors": "^2.8.5",
     "cross-fetch": "^3.2.0",
     "debug": "^2.6.9",
     "deep-equal": "^1.1.2",
@@ -70,6 +71,7 @@
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
     "ms": "^2.0.0",
+    "multer": "^1.4.5-lts.1",
     "negotiator": "^0.6.3",
     "node-fetch": "^2.7.0",
     "object-assign": "^4.1.1",
@@ -122,8 +124,7 @@
     "webidl-conversions": "^3.0.1",
     "whatwg-url": "^5.0.0"
   },
-  "devDependencies": {},
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
